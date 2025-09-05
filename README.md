@@ -7,6 +7,7 @@ Welcome to my data analytics portfolio! Here you can find projects showcasing my
 ## About Me
 I am an aspiring Data Analyst with experience in **data cleaning, visualization, and reporting**. I enjoy turning raw data into meaningful insights and creating interactive dashboards that help drive business decisions.
 
+[Download my Resume](Resume%20(1).pdf)
 ---
 
 ## Projects
