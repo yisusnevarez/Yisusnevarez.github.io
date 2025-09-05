@@ -34,7 +34,9 @@ I am an aspiring Data Analyst with experience in **data cleaning, visualization,
 - **GitHub:** https://github.com/yisusnevarez/Yisusnevarez.github.io
 
 - 
-[View Tableau Dashboard](https://public.tableau.com/views/YourDashboardURL
+[View Tableau Dashboard](https://public.tableau.com/app/profile/antonio.nevarez/vizzes)
+
+
 [Download my Resume](Resume%20(1).pdf)
 
 ---
