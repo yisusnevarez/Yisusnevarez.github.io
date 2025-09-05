@@ -10,7 +10,7 @@ I am an aspiring Data Analyst with experience in **data cleaning, visualization,
 ---
 
 ## Projects
-[cyclistic-case-study](/cyclistic-bike-share--case-study.v2Rmd.html)
+[cyclistic-case-study](cyclistic-bike-share--case-study.v2Rmd.html)
 ### 1. Cyclistic Case Study
 **Description:** Analyzed bike-sharing data to identify trends, customer behavior, and ride patterns.  
 **Tools Used:** R, Tableau, Excel  
