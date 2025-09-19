@@ -16,6 +16,8 @@ I am an aspiring Data Analyst with experience in **data cleaning, visualization,
 **Description:** Analyzed bike-sharing data to identify trends, customer behavior, and ride patterns.  
 **Tools Used:** R, Tableau, Excel  
 **Repo / Link:** 
+
+
 [SparkCART Project](https://www.kaggle.com/code/antonionvrz/sparkcart-project)
 ### 2. SparkCART Project
 **Description** Analyzed sales transactions for e-commerce company, Identify sales trends across different countries, payment types, age groups, seasonality trends for marketing campaigns and programs.
