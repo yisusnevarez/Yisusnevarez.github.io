@@ -18,7 +18,7 @@ I am an aspiring Data Analyst with experience in **data cleaning, visualization,
 **Repo / Link:** 
 
 
-[SparkCART Project](https://www.kaggle.com/code/antonionvrz/sparkcart-project)
+[SparkCART Project](https://github.com/yisusnevarez/SparkCART)
 ### 2. SparkCART Project
 **Description** Analyzed sales transactions for e-commerce company, Identify sales trends across different countries, payment types, age groups, seasonality trends for marketing campaigns and programs.
 **Tools used** Excel,SQL, Powerpoint.
