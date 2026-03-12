@@ -11,26 +11,51 @@ I am an aspiring Data Analyst with experience in **data cleaning, visualization,
 ---
 
 ## Projects
-[Cyclistic Case Study](https://github.com/yisusnevarez/cyclistic-case-study)
-### 1. Cyclistic Case Study
-**Description:** Analyzed bike-sharing data to identify trends, customer behavior, and ride patterns.  
-**Tools Used:** R, Tableau, Excel  
-**Repo / Link:** 
 
+### SQL Layoffs Data Cleaning
+**Description:**  
+Cleaned and standardized a global layoffs dataset using SQL to prepare the data for analysis. The project involved removing duplicate records, standardizing company and industry values, handling missing data, and converting date fields into proper SQL date format.
 
-[SparkCART Project](https://github.com/yisusnevarez/SparkCART)
-### 2. SparkCART Project
-**Description** Analyzed sales transactions for e-commerce company, Identify sales trends across different countries, payment types, age groups, seasonality trends for marketing campaigns and programs.
-**Tools used** Excel,SQL, Powerpoint.
+**Tools Used:** SQL, Window Functions, CTEs, Data Cleaning
 
+🔗 Project Repository:  
+https://github.com/yisusnevarez/sql-layoffs-data-cleaning
 
 ---
 
-## Skills
-- **Programming & Data Analysis:** R, SQL, Excel  
-- **Visualization:** Tableau, Excel Charts, Dashboards  
-- **Data Cleaning & Manipulation:** dplyr, tidyr, data.table  
-- **Other Tools:** Git, GitHub, R Markdown
+### Cyclistic Case Study
+**Description:**  
+Analyzed bike-sharing data to identify trends, customer behavior, and ride patterns.
+
+**Tools Used:** R, Tableau, Excel
+
+🔗 Project Repository:  
+https://github.com/yisusnevarez/cyclistic-case-study
+
+---
+
+### SparkCART Sales Analysis
+**Description:**  
+Analyzed e-commerce transaction data to identify sales trends across countries, payment types, age groups, and seasonal patterns.
+
+**Tools Used:** Excel, SQL, PowerPoint
+
+🔗 Project Repository:  
+https://github.com/yisusnevarez/SparkCART
+
+---
+
+### Data Analysis
+SQL • R • Excel • Data Cleaning • Exploratory Data Analysis
+
+### Visualization
+Tableau • Excel Dashboards • Charts
+
+### Data Manipulation
+dplyr • tidyr • data.table
+
+### Tools
+Git • GitHub • R Markdown
 
 ---
 
