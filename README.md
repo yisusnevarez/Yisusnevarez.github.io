@@ -4,8 +4,10 @@ Welcome to my data analytics portfolio! Here you can find projects showcasing my
 
 ---
 
-## About Me
-I am an aspiring Data Analyst with experience in **data cleaning, visualization, and reporting**. I enjoy turning raw data into meaningful insights and creating interactive dashboards that help drive business decisions.
+# About Me
+I am an aspiring **Data Analyst** with experience in **data cleaning, exploratory analysis, and data visualization**. I enjoy transforming raw datasets into meaningful insights and building dashboards that support data-driven decision making.
+
+I recently completed the **Google Data Analytics Professional Certificate** and continue to develop my skills through hands-on data projects.
 
 
 ---
