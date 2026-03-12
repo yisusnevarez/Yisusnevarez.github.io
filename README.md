@@ -70,7 +70,7 @@ Git • GitHub • R Markdown
 [View Tableau Dashboard](https://public.tableau.com/app/profile/antonio.nevarez/vizzes)
 
 
-[Download my Resume](Resume%20(1).pdf)
+[Download my Resume](Jesus_Nevarez_Data_Analyst_Optimized.pdf)
 
 ---
 
